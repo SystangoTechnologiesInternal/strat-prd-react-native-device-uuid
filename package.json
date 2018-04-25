@@ -1,0 +1,54 @@
+{
+  "_from": "react-native-device-uuid@^1.2.0",
+  "_id": "react-native-device-uuid@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-XQIbJkD1YZsbQGpQJjZoLwYai9Q=",
+  "_location": "/react-native-device-uuid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-device-uuid@^1.2.0",
+    "name": "react-native-device-uuid",
+    "escapedName": "react-native-device-uuid",
+    "rawSpec": "^1.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-device-uuid/-/react-native-device-uuid-1.2.0.tgz",
+  "_shasum": "5d021b2640f5619b1b406a502636682f061a8bd4",
+  "_spec": "react-native-device-uuid@^1.2.0",
+  "_where": "/Users/MacBookpro15/Projects/PredictorApp",
+  "author": {
+    "name": "Chih-Wei",
+    "email": "bert.cwchang@gmail.com",
+    "url": "Bert"
+  },
+  "bugs": {
+    "url": "https://github.com/lazywei/react-native-device-uuid/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Get the device UUID for iOS device",
+  "homepage": "https://github.com/lazywei/react-native-device-uuid#readme",
+  "keywords": [
+    "javascript",
+    "reactjs",
+    "react-native",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "DeviceUUID.ios.js",
+  "name": "react-native-device-uuid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazywei/react-native-device-uuid.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
